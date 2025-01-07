@@ -1,0 +1,6 @@
+# This code is intended to calculate the average of a list of numbers
+numbers = [10, 20, 30, 40, 50]
+total = sum(numbers)
+average = total / len(numbers)
+
+print("The average is:  + 
